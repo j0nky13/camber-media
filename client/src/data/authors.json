@@ -1,0 +1,14 @@
+[
+  {
+    "name": "W. K. (Bill) Rader",
+    "slug": "bill-rader",
+    "bioHTML": "<p>Bill Rader is an entrepreneur and writer whose work bridges the boardroom and the back-alley workshop. He has built and scaled ventures across industries, collecting both scars and playbooks along the way. In <em>The Venn Effect</em>, he translates those lessons into a usable framework for founders: align what you love with what you’re good at and what the market will pay for. <em>The Gathering</em> marks his pivot into speculative fiction, where the same questions of agency, risk, and systems play out on a global stage. Rader lives and works in Charleston, South Carolina.</p>",
+    "headshot": "/bill-rader.jpg",
+    "social": {
+      "site": "",
+      "x": "https://x.com/wkrader",
+      "instagram": ""
+    },
+    "titles": ["the-venn-effect","the-gathering"]
+  }
+]

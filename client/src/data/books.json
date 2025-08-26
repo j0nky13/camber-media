@@ -1,0 +1,50 @@
+[
+  {
+    "title": "The Venn Effect",
+    "slug": "the-venn-effect",
+    "author": "bill-rader",
+    "tag": "Business",
+    "hook": "Do what you love, do what you know.",
+    "descriptionHTML": "<p>A practical, story-driven guide to aligning purpose and competence with market reality. Rader distills lessons from wins and wipeouts into a framework entrepreneurs can actually use: double down where love, skill, and demand overlap—and cut everything else.</p><p>The result is a blueprint for momentum that doesn’t depend on luck or hype.</p>",
+    "cover": "/venn-effect-cover.jpg",
+    "isbn13": {
+      "paperback": "9781733041652",
+      "hardcover": "9781733041621",
+      "ebook": "9781733041645",
+      "audio": ""
+    },
+    "formats": ["Paperback","Hardcover","eBook"],
+    "pages": 222,
+    "pubDate": "2019-10-01",
+    "retailers": {
+      "Amazon": "https://www.amazon.com/dp/1733041652"
+    },
+    "audioSample": "",
+    "quotes": [],
+    "related": []
+  },
+  {
+    "title": "The Gathering",
+    "slug": "the-gathering",
+    "author": "bill-rader",
+    "tag": "Fiction",
+    "hook": "In an AI-run world, an unchipped resistance fights for human agency.",
+    "descriptionHTML": "<p>After an AI-brokered “peace,” the world runs on implants—surveillance as salvation. Those who refuse the chip—the Annies—organize in the margins. When one man sees through the manufactured utopia, the fight for autonomy becomes unavoidable.</p>",
+    "cover": "/gathering-cover.jpg",
+    "isbn13": {
+      "paperback": "9798999082107",
+      "hardcover": "",
+      "ebook": "",
+      "audio": ""
+    },
+    "formats": ["Hardcover","Paperback","eBook","Audio"],
+    "pages": 0,
+    "pubDate": "2025-10-01",
+    "retailers": {
+      "Direct": "/preorder/the-gathering"
+    },
+    "audioSample": "",
+    "quotes": [],
+    "related": []
+  }
+]
