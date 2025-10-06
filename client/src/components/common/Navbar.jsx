@@ -35,7 +35,7 @@ export default function Navbar() {
         <nav className="hidden lg:flex items-center gap-1">
           <NavItem to="/books">Books</NavItem>
           <NavItem to="/authors">Authors</NavItem>
-          <NavItem to="/press">Press</NavItem>
+          {/* <NavItem to="/press">Press</NavItem> */}
           <NavItem to="/submissions">Submissions</NavItem>
           <NavItem to="/contact">Contact</NavItem>
         </nav>
@@ -66,7 +66,7 @@ export default function Navbar() {
         <nav className="px-4 py-2 space-y-1 bg-brand shadow-soft">
           <NavItem to="/books" onClick={handleNav}>Books</NavItem>
           <NavItem to="/authors" onClick={handleNav}>Authors</NavItem>
-          <NavItem to="/press" onClick={handleNav}>Press</NavItem>
+          {/* <NavItem to="/press" onClick={handleNav}>Press</NavItem> */}
           <NavItem to="/submissions" onClick={handleNav}>Submissions</NavItem>
           <NavItem to="/contact" onClick={handleNav}>Contact</NavItem>
         </nav>

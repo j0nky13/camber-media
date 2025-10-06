@@ -12,7 +12,7 @@ export default function Footer() {
           <ul className="space-y-1">
             <li><a className="hover:underline" href="/books">Books</a></li>
             <li><a className="hover:underline" href="/authors">Authors</a></li>
-            <li><a className="hover:underline" href="/press">Press Kit</a></li>
+            {/* <li><a className="hover:underline" href="/press">Press Kit</a></li> */}
           </ul>
         </div>
 
