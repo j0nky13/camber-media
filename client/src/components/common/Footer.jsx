@@ -18,7 +18,7 @@ export default function Footer() {
 
         <div className="text-center md:text-center lg:text-left">
           <h3 className="text-neutralx-50 font-semibold mb-2">Contact</h3>
-          <p><a className="hover:underline" href="mailto:press@camber.media">press@camber.media</a></p>
+          <p><a className="hover:underline" href="mailto:press@camber.media">camberpress@pm.me</a></p>
           <p className="mt-2 text-sm">© {new Date().getFullYear()} Camber Media</p>
         </div>
       </div>

@@ -2,7 +2,7 @@
   {
     "name": "W. K. (Bill) Rader",
     "slug": "bill-rader",
-    "bioHTML": "<p>Bill Rader is an entrepreneur and writer whose work bridges the boardroom and the back-alley workshop. He has built and scaled ventures across industries, collecting both scars and playbooks along the way. In <em>The Venn Effect</em>, he translates those lessons into a usable framework for founders: align what you love with what you’re good at and what the market will pay for. <em>The Gathering</em> marks his pivot into speculative fiction, where the same questions of agency, risk, and systems play out on a global stage. Rader lives and works in Charleston, South Carolina.</p>",
+    "bioHTML": "<p style=\"max-width: 800px; text-align: justify; margin: 0 auto;\">\nW.K. Rader (Bill Rader) is a novelist and biotechnology entrepreneur whose work explores the intersection of science, ethics, and the human condition. His debut novel, The Gathering, has been formally entered for consideration in the Pulitzer Prize for Fiction. Before turning to writing, Rader founded several biotechnology companies and holds patents for implanted medical systems.\n<br><br>\nDrawing on his groundbreaking experience in biotech, Rader infuses his fiction with scientific realism and emotional depth. <em>The Gathering</em> —a gripping story of rebellion, sacrifice, and the enduring power of the human spirit—depicts a near‑future world where artificial intelligence has taken control, forcing humanity to confront what it means to be truly free.\n<br><br>\nHe is also the author of award‑winning <em>The Venn Effect</em>, a biographical novel exploring the convergence of biotechnology and human destiny. Through storytelling, Rader continues his lifelong pursuit of understanding how innovation shapes identity, autonomy, and hope.\n<br><br>\nBill lives in the Lowcountry of South Carolina with his wife, Patricia, and their Golden Retriever.\n</p>",
     "headshot": "/bill-rader.jpg",
     "social": {
       "site": "",
@@ -13,4 +13,3 @@
   }
 
 ]
-
