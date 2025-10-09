@@ -1,6 +1,6 @@
 export default function Authors() {
   const bioHTML = `<p>
-W.K. Rader (Bill Rader) is a novelist and biotechnology entrepreneur whose work explores the intersection of science, ethics, and the human condition. His debut novel, The Gathering, has been formally entered for consideration in the Pulitzer Prize for Fiction. Before turning to writing, Rader founded several biotechnology companies and holds patents for implanted medical systems.
+W.K. Rader (Bill Rader) is a novelist and biotechnology entrepreneur whose work explores the intersection of science, ethics, and the human condition. Before turning to writing, Rader founded several biotechnology companies and holds patents for implanted medical systems.
 <br><br>
 Drawing on his groundbreaking experience in biotech, Rader infuses his fiction with scientific realism and emotional depth. <em>The Gathering</em> —a gripping story of rebellion, sacrifice, and the enduring power of the human spirit—depicts a near‑future world where artificial intelligence has taken control, forcing humanity to confront what it means to be truly free.
 <br><br>
