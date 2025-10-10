@@ -50,7 +50,7 @@ export default function BookPromo() {
             </p>
             <div className="mt-5">
               <a
-                href="https://www.amazon.com/dp/1733041652"
+                href=" https://square.link/u/CyOsLj8U"
                 target="_blank"
                 rel="noreferrer"
                 className="inline-flex items-center justify-center rounded-xl px-4 py-2 font-mono text-[11px] uppercase tracking-[0.25em] shadow-sm border border-white/15 bg-white/5 text-white hover:bg-white/10 transition"
